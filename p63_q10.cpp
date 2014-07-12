@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <math.h>//add at 2014/7/12
 
 typedef struct node* ptrtonode;
 struct node
